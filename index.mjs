@@ -1,5 +1,5 @@
 /*!
-    @e53e04ac/ipp5-backend-api/main.mjs
+    @e53e04ac/ipp5-backend-api/index.mjs
     Copyright (C) @e53e04ac
     MIT License
 */
@@ -18,7 +18,7 @@ import { Ipp5BookshelfReader } from 'ipp5-bookshelf-reader';
 import { Ipp5BookshelfReaderRouter } from 'ipp5-bookshelf-reader-router';
 import { Ipp5TokenAudience } from 'ipp5-token-audience';
 
-/** @type {import('./types').Application} */
+/** @type {import('.').Application} */
 const app = ({
     process: hold(() => {
         return process;
