@@ -5,8 +5,6 @@ npm install e53e04ac/ipp5-backend-api
 ~~~~~
 
 ~~~~~ mjs
-import { ClientInfoParams } from 'e53e04ac/ipp5-backend-api';
-import { Application } from 'e53e04ac/ipp5-backend-api';
 ~~~~~
 
 ~~~~~ mermaid
@@ -47,17 +45,17 @@ graph RL;
   click B_0 "https://www.npmjs.org/package/express/v/4.18.2";
   click B_1 "https://www.npmjs.org/package/express-rate-limit/v/6.7.0";
   click B_2 "https://www.npmjs.org/package/express-slow-down/v/1.5.0";
-  click B_3 "https://github.com/e53e04ac/file-entry-native/tree/d18fec26c8d54d028c89fe513c9e51f713867e44";
-  click B_4 "https://github.com/e53e04ac/hold/tree/67e5b60f9bb3221f8b200107c13e89a604a93631";
-  click B_5 "https://github.com/e53e04ac/ipp5-bookshelf-reader/tree/cf01e88797668e7851093e5049a7e99637cfcb67";
-  click B_6 "https://github.com/e53e04ac/ipp5-bookshelf-reader-router/tree/e882030dbd8635b5b38644fb334f36bad4acd8f6";
-  click B_7 "https://github.com/e53e04ac/ipp5-token-audience/tree/1351aa4af0a90b12e8d10354a8a0655f278a9601";
+  click B_3 "https://github.com/e53e04ac/file-entry-native/tree/0e0f87721b3753446d291c2ed8bd1755a851d321";
+  click B_4 "https://github.com/e53e04ac/hold/tree/5dd6f94b8ecd94f98219a7afae52320676380c27";
+  click B_5 "https://github.com/e53e04ac/ipp5-bookshelf-reader/tree/bc326a4fe44e7de61391f0cda443727b93bab035";
+  click B_6 "https://github.com/e53e04ac/ipp5-bookshelf-reader-router/tree/fa2010f7c8c0b323a786caa5d6ba6f4ee5271b61";
+  click B_7 "https://github.com/e53e04ac/ipp5-token-audience/tree/be3e37cce369300c256b59f765f8ab79f4a403a1";
   click B_8 "https://www.npmjs.org/package/joi/v/17.7.1";
   click B_9 "https://www.npmjs.org/package/@types/express/v/4.17.17";
   click B_10 "https://www.npmjs.org/package/@types/express-slow-down/v/1.3.2";
   click B_11 "https://www.npmjs.org/package/@types/node/v/18.13.0";
-  click B_12 "https://github.com/e53e04ac/file-entry/tree/eb9b340b50a6a171cda08fa63be4e647bd77caba";
-  click B_13 "https://github.com/e53e04ac/ipp5-types/tree/6f3ee419d7cf5ae7f689bd79bde869f462fe30aa";
+  click B_12 "https://github.com/e53e04ac/file-entry/tree/77cbd9d0db1e4a74fd5af363999096d9172bd83d";
+  click B_13 "https://github.com/e53e04ac/ipp5-types/tree/f0ef220175398bc3bab4a468906a94e8446fc893";
 ~~~~~
 
 ~~~~~ mermaid
@@ -112,8 +110,8 @@ graph RL;
 ~~~~~ mermaid
 graph RL;
   subgraph "e53e04ac/ipp5-backend-api";
-    E_0(["ClientInfoParams"]);
-    E_1(["Application"]);
+    E_0(["type ClientInfoParams"]);
+    E_1(["type Application"]);
   end;
   M(["index.d.ts"])
   subgraph "node:http";
