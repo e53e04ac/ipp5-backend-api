@@ -39,20 +39,20 @@ graph RL;
   A ----> B_11;
   A ----> B_12;
   A ----> B_13;
-  click B_0 "https://www.npmjs.org/package/express/v/4.18.2";
-  click B_1 "https://www.npmjs.org/package/express-rate-limit/v/6.7.0";
-  click B_2 "https://www.npmjs.org/package/express-slow-down/v/1.5.0";
-  click B_3 "https://github.com/e53e04ac/file-entry-native/tree/3c7e8e20a8f04f390eaec31c9e9654c9fe219797";
-  click B_4 "https://github.com/e53e04ac/hold/tree/49707680ccdf4c5673f64ff0bab30f408269b328";
-  click B_5 "https://github.com/e53e04ac/ipp5-bookshelf-reader/tree/24e4dee64d7354c0f9edf35e99665fb9cd877777";
-  click B_6 "https://github.com/e53e04ac/ipp5-bookshelf-reader-router/tree/149b4822869f846097bf6d91e8e6ccb12a78e19b";
-  click B_7 "https://github.com/e53e04ac/ipp5-token-audience/tree/e3ed09192efeab8c1b062f8dae2eff1b1104cf60";
-  click B_8 "https://www.npmjs.org/package/joi/v/17.7.1";
-  click B_9 "https://www.npmjs.org/package/@types/express/v/4.17.17";
-  click B_10 "https://www.npmjs.org/package/@types/express-slow-down/v/1.3.2";
-  click B_11 "https://www.npmjs.org/package/@types/node/v/18.14.0";
-  click B_12 "https://github.com/e53e04ac/file-entry/tree/c2cb299755ce1e1acd4da616865b44ea054e9291";
-  click B_13 "https://github.com/e53e04ac/ipp5-types/tree/d5f53a3728d786e9e981279acde3ea9e913df1b8";
+  click B_0 "https://www.npmjs.com/package/express/v/4.18.2";
+  click B_1 "https://www.npmjs.com/package/express-rate-limit/v/6.7.0";
+  click B_2 "https://www.npmjs.com/package/express-slow-down/v/1.5.0";
+  click B_3 "https://github.com/e53e04ac/file-entry-native/tree/9e08b922f13bb758e8a7d30ef925a82a96284e4e";
+  click B_4 "https://github.com/e53e04ac/hold/tree/3191dd4704f3e5f90d6c27f288ede7700f5fdb66";
+  click B_5 "https://github.com/e53e04ac/ipp5-bookshelf-reader/tree/8494b76e5027a156ba172b9817f24de86fbd220b";
+  click B_6 "https://github.com/e53e04ac/ipp5-bookshelf-reader-router/tree/a827494d96362c4b3395fb67fdac2e5c409f10d4";
+  click B_7 "https://github.com/e53e04ac/ipp5-token-audience/tree/0cebdbe584a95b544cb8154d093c224599d0b610";
+  click B_8 "https://www.npmjs.com/package/joi/v/17.7.1";
+  click B_9 "https://www.npmjs.com/package/@types/express/v/4.17.17";
+  click B_10 "https://www.npmjs.com/package/@types/express-slow-down/v/1.3.2";
+  click B_11 "https://www.npmjs.com/package/@types/node/v/18.14.0";
+  click B_12 "https://github.com/e53e04ac/file-entry/tree/c972d64414ab71efd73ea068fd42583938be938c";
+  click B_13 "https://github.com/e53e04ac/ipp5-types/tree/a52c2b739c3d68e21dd63da9cb3e603732acc3d1";
 ~~~~~
 
 ~~~~~ mermaid
