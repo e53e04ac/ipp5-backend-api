@@ -44,15 +44,15 @@ graph RL;
   click B_2 "https://www.npmjs.com/package/express-slow-down/v/1.5.0";
   click B_3 "https://github.com/e53e04ac/file-entry-native/tree/1d122ef6ef3be5ce088e1d7651ac0b81c04be512";
   click B_4 "https://github.com/e53e04ac/hold/tree/3191dd4704f3e5f90d6c27f288ede7700f5fdb66";
-  click B_5 "https://github.com/e53e04ac/ipp5-bookshelf-reader/tree/f2c95b8872f55f062b57be72903bd3e0d8fbf5ab";
-  click B_6 "https://github.com/e53e04ac/ipp5-bookshelf-reader-router/tree/921309f6094bd81d13375afaf05b6bd0796b9171";
-  click B_7 "https://github.com/e53e04ac/ipp5-token-audience/tree/0cebdbe584a95b544cb8154d093c224599d0b610";
+  click B_5 "https://github.com/e53e04ac/ipp5-bookshelf-reader/tree/dd0387718c616dc0beece995e12413778aeb4be8";
+  click B_6 "https://github.com/e53e04ac/ipp5-bookshelf-reader-router/tree/7ca75d190d2eeb353992016a3d16f033bbbf9b98";
+  click B_7 "https://github.com/e53e04ac/ipp5-token-audience/tree/a0cb69d9b4c2aea59b7ddf0d7d7681d69b9691c1";
   click B_8 "https://www.npmjs.com/package/joi/v/17.7.1";
   click B_9 "https://www.npmjs.com/package/@types/express/v/4.17.17";
   click B_10 "https://www.npmjs.com/package/@types/express-slow-down/v/1.3.2";
   click B_11 "https://www.npmjs.com/package/@types/node/v/18.14.0";
   click B_12 "https://github.com/e53e04ac/file-entry/tree/19444d5321ee7ab4d8885be24d501a55ddf04259";
-  click B_13 "https://github.com/e53e04ac/ipp5-types/tree/a52c2b739c3d68e21dd63da9cb3e603732acc3d1";
+  click B_13 "https://github.com/e53e04ac/ipp5-types/tree/7b54ab5fbd2f85facb7851e6ae651413d4d1e0d2";
 ~~~~~
 
 ~~~~~ mermaid
