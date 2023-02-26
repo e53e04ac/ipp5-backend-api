@@ -30,6 +30,7 @@ export declare type Application = {
     readonly backendMountEntry: Get<FileEntry>;
     readonly bookshelfReader: Get<Ipp5BookshelfReader>;
     readonly tokenAudience: Get<Ipp5TokenAudience>;
+    readonly logHandler: Get<ExpressRequestHandler<unknown, unknown, unknown, unknown, Record<string, unknown>>>;
     readonly healthcheckHandler: Get<ExpressRequestHandler<unknown, unknown, unknown, unknown, Record<string, unknown>>>;
     readonly expressSlowDown: Get<ExpressRequestHandler>;
     readonly expressRateLimit: Get<ExpressRequestHandler>;
